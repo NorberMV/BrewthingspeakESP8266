@@ -7,6 +7,8 @@
 The ThigspeakMultipleFields.ino code, have been modified from official ThingSpeak Copyright 2018, The MathWorks, Inc. to read two sensors DS18B20 and a MQ-4 1 Methane meter, compressed natural gas (GNP) and writes in a
 specific channel in Thingspeak in simultaneus fields.
 
+Other example in: https://www.mathworks.com/help/thingspeak/MoistureMonitor.html
+
 Modified by: Norberto Moreno 2019 */
 For more information see the documentation in the Matlab Thingspeak repository : https://github.com/NorberMV/thingspeak-arduino
 ThingSpeak Copyright 2018, The MathWorks, Inc.
