@@ -1,4 +1,4 @@
-# Retrieving and Dysplaying temperature Data from a Brew Process using the API from thingspeaks + ESP8266 module and two DS18B20 sensors.
+# Retrieving and Dysplaying Temperature Data from a Brew Process using the API from thingspeaks + ESP8266 module and two DS18B20 sensors.
 
 
 ## Table of contents
