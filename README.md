@@ -32,4 +32,4 @@ $ npm start
 
 ## Pictures
 
-![]()
+![](temperatureData.jpg)
