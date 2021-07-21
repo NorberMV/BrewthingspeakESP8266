@@ -32,4 +32,4 @@ $ npm start
 
 ## Pictures
 
-![](temperatureData.jpg | width=50)
+<img src="https://github.com/temperatureData.jpg" width="48">
