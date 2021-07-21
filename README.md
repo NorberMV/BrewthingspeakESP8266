@@ -5,6 +5,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Pictures](#Pictures)
 
 ## General info
 This is the first version of the Brew System for Alpha Brewery and we need to retrieve the temperature data from the two main 50 Liters tanks ( The boiler tank and the mash tank where crushed grains are mixed with water to form a porridge-like mixture called the “mash”. I used and modified the ThigspeakMultipleFields.ino example code, from official ThingSpeak Copyright 2018, The MathWorks, Inc.
@@ -28,3 +29,7 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
+
+## Pictures
+
+![]()
