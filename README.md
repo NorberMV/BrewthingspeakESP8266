@@ -32,4 +32,4 @@ $ npm start
 
 ## Pictures
 
-<img src="https://github.com/NorberMV/BrewthingspeakESP8266/blob/master/temperatureData1.jpg" >
+<img src="https://github.com/NorberMV/BrewthingspeakESP8266/blob/master/temperatureData1.jpg" width="500">
