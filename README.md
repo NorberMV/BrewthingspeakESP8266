@@ -20,15 +20,6 @@ Project is created with:
 * 1 Wemos D1 mini ESP8266 module
 * 2 DS18B20 digital temperature sensors with a Inox 304 Stainless Steel probe
 
-	
-## Setup
-To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
 
 ## Pictures
 
