@@ -28,7 +28,7 @@ Project is created with:
 
 <img src="https://github.com/NorberMV/BrewthingspeakESP8266/blob/master/brewSystemV2.0.jpg" width="500">
 
-<img src="https://github.com/NorberMV/BrewthingspeakESP8266/blob/master/electricalPanelDesign.jpg" width="200">
+<img src="https://github.com/NorberMV/BrewthingspeakESP8266/blob/master/electricalPanelDesign.jpg" width="300">
 <img src="https://github.com/NorberMV/BrewthingspeakESP8266/blob/master/brew_E_panel.jpg" width="500">
 
 
