@@ -32,4 +32,3 @@ Project is created with:
 <img src="https://github.com/NorberMV/BrewthingspeakESP8266/blob/master/brew_E_panel.jpg" width="500">
 
 
-<img src="https://github.com/NorberMV/BrewthingspeakESP8266/blob/master/temperatureData1.jpg" width="500">
